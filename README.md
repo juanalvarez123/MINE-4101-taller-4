@@ -7,6 +7,8 @@ Integrantes:
 
 Creación de un modelo de clasificación para predecir si un cliente es propenso abandonar los servicios que actualmente tiene contratados con una empresa.
 
+[![Watch the video](https://github.com/juanalvarez123/MINE-4101-taller-4/blob/main/resources/video.png)](https://youtu.be/ImE3eyydpUM)
+
 ## Instrucciones Colab
 
 1. Abrir el notebook `Taller_4.ipynb` con Colab o Jupyter.
