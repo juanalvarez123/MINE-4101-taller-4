@@ -79,7 +79,7 @@ def post_train():
     score = model.score(X, Y)
     joblib.dump(model, 'models/second_model.joblib')
 
-    return jsonify([{'First Model': 0.8258662484566796 },{'Second Model': score}])
+    return jsonify([{'First Model ROC AUC': 0.735435 },{'Second Model ROC AUC': score}])
 
 
 
